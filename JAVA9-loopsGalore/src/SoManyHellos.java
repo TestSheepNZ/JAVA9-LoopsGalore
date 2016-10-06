@@ -13,7 +13,7 @@
 import org.junit.Test;
 import static org.junit.Assert.*;
 
-public class soManyHellos {
+public class SoManyHellos {
 	
     public static void multiLingualHelloWorld (int langID)
     {
